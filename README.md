@@ -3,7 +3,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/motleycrew)](https://pypi.org/project/motleycrew/)
 [![CI](https://github.com/ShoggothAI/motleycrew/actions/workflows/build.yml/badge.svg)](https://github.com/ShoggothAI/motleycrew/actions/workflows/build.yml)
 
-[Website](https://motleycrew.ai) •︎ [Documentation](https://motleycrew.readthedocs.io)
+ •︎ [Documentation](https://motleycrew.readthedocs.io)
 
 Welcome to motleycrew, your ultimate framework for building multi-agent AI systems. With motleycrew, you can seamlessly mix and match AI agents and tools from popular frameworks, design advanced workflows, and leverage dynamic knowledge graphs — all with simplicity and elegance.
 
